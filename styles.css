@@ -1,3 +1,7 @@
+box-model {
+    font-color: grey;
+}
+
 body {
     background-color: beige;
     font-size: 20px;
