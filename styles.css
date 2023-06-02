@@ -1,0 +1,13 @@
+body {
+    background-color: beige;
+    font-size: 20px;
+ }
+ h1{
+ color: gold
+ }
+ div{
+    background-color: darkseagreen;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+ }
