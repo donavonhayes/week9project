@@ -20,6 +20,8 @@ body {
  div:hover{
     background-color: skyblue;
     }
+
+    
     
 
     h1 {
@@ -30,12 +32,14 @@ body {
         border-style: solid;
         border-color: black;
         border-radius: 5px;
-     
-     
      }
+
+      <p>h2 {
+        color: blue
+      }
+
      
-     
-     
+    
      
      div:hover{
      background-color: skyblue;
