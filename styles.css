@@ -16,6 +16,11 @@ body {
     border-radius: 5px;
  }
 
+ h2 {
+color:blueviolet
+ }
+ 
+
 
  div:hover{
     background-color: skyblue;
@@ -24,8 +29,8 @@ body {
     
     
 
-    h1 {
-        color: gold;
+    h2 {
+        color: pink;
      }
      div {
         background-color: darkseagreen;
@@ -33,11 +38,6 @@ body {
         border-color: black;
         border-radius: 5px;
      }
-
-      <p>h2 {
-        color: pink
-      }
-
      
     
      
