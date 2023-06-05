@@ -39,6 +39,10 @@ color:blueviolet;
     h2 {
         color: pink;
      }
+
+     h2:hover{
+        background-color: solid brown;
+     }
      div {
         background-color: silver;
         border-style: solid;
