@@ -10,7 +10,7 @@ body {
  color: gold
  }
  div{
-    background-color: darkseagreen;
+    background-color: silver;
     border-style: solid;
     border-color: black;
     border-radius: 5px;
@@ -33,7 +33,7 @@ color:blueviolet
         color: pink;
      }
      div {
-        background-color: darkseagreen;
+        background-color: silver;
         border-style: solid;
         border-color: black;
         border-radius: 5px;
