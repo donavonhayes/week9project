@@ -64,3 +64,12 @@ body {
      tr:nth-child(even) {
      background-color: orangered;
      }
+
+
+ form{
+    background-color: grey;
+   }
+    form:hover{
+    background-color: orange;
+   }
+ 
